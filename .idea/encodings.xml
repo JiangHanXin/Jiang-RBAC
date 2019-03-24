@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/jiang-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager/jiang-manager-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager/jiang-manager-pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager/jiang-manager-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-manager/jiang-manager-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jiang-parent" charset="UTF-8" />
+  </component>
+</project>

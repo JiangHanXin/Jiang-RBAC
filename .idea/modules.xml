@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jiang-admin/jiang-admin.iml" filepath="$PROJECT_DIR$/jiang-admin/jiang-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-common/jiang-common.iml" filepath="$PROJECT_DIR$/jiang-common/jiang-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-manager/jiang-manager.iml" filepath="$PROJECT_DIR$/jiang-manager/jiang-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-manager/jiang-manager-dao/jiang-manager-dao.iml" filepath="$PROJECT_DIR$/jiang-manager/jiang-manager-dao/jiang-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-manager/jiang-manager-pojo/jiang-manager-pojo.iml" filepath="$PROJECT_DIR$/jiang-manager/jiang-manager-pojo/jiang-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-manager/jiang-manager-service/jiang-manager-service.iml" filepath="$PROJECT_DIR$/jiang-manager/jiang-manager-service/jiang-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-manager/jiang-manager-web/jiang-manager-web.iml" filepath="$PROJECT_DIR$/jiang-manager/jiang-manager-web/jiang-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jiang-parent/jiang-parent.iml" filepath="$PROJECT_DIR$/jiang-parent/jiang-parent.iml" />
+    </modules>
+  </component>
+</project>

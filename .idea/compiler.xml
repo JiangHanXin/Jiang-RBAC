@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jiang-admin" />
+        <module name="jiang-common" />
+        <module name="jiang-manager-dao" />
+        <module name="jiang-manager-pojo" />
+        <module name="jiang-manager-service" />
+        <module name="jiang-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jiang-admin" target="1.7" />
+      <module name="jiang-common" target="1.7" />
+      <module name="jiang-manager" target="1.7" />
+      <module name="jiang-manager-dao" target="1.7" />
+      <module name="jiang-manager-pojo" target="1.7" />
+      <module name="jiang-manager-service" target="1.7" />
+      <module name="jiang-manager-web" target="1.7" />
+      <module name="jiang-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
